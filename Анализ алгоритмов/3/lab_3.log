@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.19)  15 NOV 2020 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.19)  26 NOV 2020 15:25
 entering extended mode
 **./lab_3.tex
 (lab_3.tex
@@ -1092,202 +1092,209 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/Owadan/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./gerb.png>] (
 C:\Users\Owadan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+) [2] [3
 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.94 	\clearpage
-                 [1] [2
-
-] [3]
-Overfull \hbox (1.55522pt too wide) in paragraph at lines 140--141
+] [4]
+Overfull \hbox (1.55522pt too wide) in paragraph at lines 142--143
 []\T2A/cmr/m/n/14.4 средний слу-чай (ран-дом-ное рас-по-ло-же-ние эле-мен-тов м
 ассива):O($\OML/cmm/m/it/14.4 n\U/matha/m/n/14.4 p\OML/cmm/m/it/14.4 log[]\U/ma
 tha/m/n/14.4 q[]$\T2A/cmr/m/n/14.4 )
  []
 
+[5
 
-Overfull \hbox (1.5904pt too wide) in paragraph at lines 145--146
+]
+Overfull \hbox (1.5904pt too wide) in paragraph at lines 147--148
 []\T2A/cmr/m/n/14.4 Рассмотрим сор-ти-ро-ку пу-зырь-ком, шейкер-сортировку и со
 р-ти-ров-ку Шел-
  []
 
-<bubblesort.png, id=124, 322.20375pt x 804.00375pt>
+<bubblesort.png, id=131, 322.20375pt x 804.00375pt>
 File: bubblesort.png Graphic file (type png)
 <use bubblesort.png>
-Package pdftex.def Info: bubblesort.png  used on input line 150.
-(pdftex.def)             Requested size: 241.8587pt x 351.38274pt.
-[4
+Package pdftex.def Info: bubblesort.png  used on input line 151.
+(pdftex.def)             Requested size: 193.48106pt x 491.9383pt.
+[6
 
  <./bubblesort.png>]
-<shaker1.png, id=135, 322.20375pt x 1116.17pt>
+<shaker1.png, id=140, 322.20375pt x 1116.17pt>
 File: shaker1.png Graphic file (type png)
 <use shaker1.png>
-Package pdftex.def Info: shaker1.png  used on input line 158.
-(pdftex.def)             Requested size: 241.8587pt x 351.39104pt.
-<shaker2.png, id=136, 371.3875pt x 774.895pt>
+Package pdftex.def Info: shaker1.png  used on input line 159.
+(pdftex.def)             Requested size: 193.48106pt x 491.93382pt.
+<shaker2.png, id=141, 371.3875pt x 774.895pt>
 File: shaker2.png Graphic file (type png)
 <use shaker2.png>
-Package pdftex.def Info: shaker2.png  used on input line 165.
-(pdftex.def)             Requested size: 241.85236pt x 351.39539pt.
+Package pdftex.def Info: shaker2.png  used on input line 166.
+(pdftex.def)             Requested size: 241.85236pt x 562.23972pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<shell.png, id=137, 743.77875pt x 825.0825pt>
+<shell.png, id=142, 743.77875pt x 825.0825pt>
 File: shell.png Graphic file (type png)
 <use shell.png>
-Package pdftex.def Info: shell.png  used on input line 172.
-(pdftex.def)             Requested size: 386.97147pt x 562.23212pt.
+Package pdftex.def Info: shell.png  used on input line 173.
+(pdftex.def)             Requested size: 435.33012pt x 702.79645pt.
+
+LaTeX Warning: Float too large for page by 30.60321pt on input line 176.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5
+[7
 
- <./shaker1.png>] [6 <./shaker2.png>] [7 <./shell.png>] [8
+ <./shaker1.png>] [8 <./shaker2.png>] [9 <./shell.png>] [10
 
 ]
-Overfull \hbox (38.7095pt too wide) in paragraph at lines 191--194
+Overfull \hbox (38.7095pt too wide) in paragraph at lines 192--195
 \T2A/cmr/m/n/14.4 лень-ких би-тов ко-да Python. $\OML/cmm/m/it/14.4 timeit$ \T2
 A/cmr/m/n/14.4 за-пус-ка-ет фраг-мент ко-да мил-ли-о-ны раз(значение
  []
 
 
-Overfull \hbox (16.9932pt too wide) in paragraph at lines 195--196
+Overfull \hbox (16.9932pt too wide) in paragraph at lines 196--197
 []\T2A/cmr/m/n/14.4 Чтобы по-лу-чить бо-лее точ-ные ре-зуль-та-ты, каж-дый тест
  за-пус-ка-ет-ся несколь-
  []
 
-[9
+[11
 
 ]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 199.
+nput line 200.
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-199.
+200.
 
 (C:\Users\Owadan\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-202.
+203.
 
 (C:\Users\Owadan\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-[10
+[12
 
-] [11] [12
-
-]
-Overfull \hbox (38.30313pt too wide) in paragraph at lines 311--318
- [] 
- []
-
-
-Overfull \hbox (38.30313pt too wide) in paragraph at lines 323--330
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--332
-
- []
-
-
-Overfull \hbox (38.30313pt too wide) in paragraph at lines 336--343
- [] 
- []
-
-[13
-
-]
-Overfull \hbox (11.9048pt too wide) in paragraph at lines 351--352
-[]\T2A/cmr/m/n/14.4 сортировка пу-зырь-ком ра-бо-тет мед-ле-нее, чем сор-ти-ров
--ка Шел-ла и Шейкер-
+] [13]
+Overfull \hbox (0.44962pt too wide) in paragraph at lines 263--264
+[]\T2A/cmr/m/n/14.4 Тестирование фукн-ци-о-наль-но-сти ал-го-рит-мов сор-ти-ров
+-ки вы-пол-ня-ет-ся ме-
  []
 
 [14
 
 ]
-<bubble.jpg, id=277, 453.49425pt x 339.669pt>
-File: bubble.jpg Graphic file (type jpg)
-<use bubble.jpg>
-Package pdftex.def Info: bubble.jpg  used on input line 359.
-(pdftex.def)             Requested size: 386.97351pt x 351.4023pt.
-<shaker.jpg, id=278, 440.24475pt x 345.08925pt>
-File: shaker.jpg Graphic file (type jpg)
-<use shaker.jpg>
-Package pdftex.def Info: shaker.jpg  used on input line 365.
-(pdftex.def)             Requested size: 386.97993pt x 351.4177pt.
+Overfull \hbox (40.30313pt too wide) in paragraph at lines 314--321
+ [] 
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (40.30313pt too wide) in paragraph at lines 326--333
+ [] 
+ []
 
-<shell_gr.jpg, id=279, 459.51675pt x 345.6915pt>
-File: shell_gr.jpg Graphic file (type jpg)
-<use shell_gr.jpg>
-Package pdftex.def Info: shell_gr.jpg  used on input line 371.
-(pdftex.def)             Requested size: 386.96605pt x 351.39272pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 310--335
+
+ []
+
+
+Overfull \hbox (40.30313pt too wide) in paragraph at lines 339--346
+ [] 
+ []
 
 [15
 
- <./bubble.jpg>] [16 <./shaker.jpg>] [17 <./shell_gr.jpg>]
-Overfull \hbox (11.9048pt too wide) in paragraph at lines 382--383
+]
+Overfull \hbox (11.9048pt too wide) in paragraph at lines 354--355
 []\T2A/cmr/m/n/14.4 сортировка пу-зырь-ком ра-бо-тет мед-ле-нее, чем сор-ти-ров
 -ка Шел-ла и Шейкер-
  []
 
-[18
+[16
 
 ]
-Underfull \hbox (badness 1270) in paragraph at lines 400--402
+<bubble_grap.jpg, id=282, 466.1415pt x 352.9185pt>
+File: bubble_grap.jpg Graphic file (type jpg)
+<use bubble_grap.jpg>
+Package pdftex.def Info: bubble_grap.jpg  used on input line 362.
+(pdftex.def)             Requested size: 386.96846pt x 351.39903pt.
+<shaker_grap.jpg, id=283, 463.7325pt x 358.33875pt>
+File: shaker_grap.jpg Graphic file (type jpg)
+<use shaker_grap.jpg>
+Package pdftex.def Info: shaker_grap.jpg  used on input line 368.
+(pdftex.def)             Requested size: 386.96405pt x 351.41563pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<shell_grap.jpg, id=284, 471.56175pt x 361.35pt>
+File: shell_grap.jpg Graphic file (type jpg)
+<use shell_grap.jpg>
+Package pdftex.def Info: shell_grap.jpg  used on input line 374.
+(pdftex.def)             Requested size: 386.97815pt x 351.39128pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17
+
+ <./bubble_grap.jpg>] [18 <./shaker_grap.jpg>] [19 <./shell_grap.jpg>]
+Overfull \hbox (3.72014pt too wide) in paragraph at lines 383--384
+[]\T2A/cmr/m/n/14.4 реализованы три ал-го-рит-ма сор-ти-ров-ки - сор-ти-ров-ка 
+пу-зырь-ком, Шейкер-
+ []
+
+
+Overfull \hbox (11.9048pt too wide) in paragraph at lines 389--390
+[]\T2A/cmr/m/n/14.4 сортировка пу-зырь-ком ра-бо-тет мед-ле-нее, чем сор-ти-ров
+-ка Шел-ла и Шейкер-
+ []
+
+[20
+
+]
+Underfull \hbox (badness 1270) in paragraph at lines 408--410
 []\T2A/cmr/m/n/14.4 Никлаус Вирт Ал-го-рит-мы и струк-ту-ры дан-ных. Но-вая вер
 -сия для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--402
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--407
+Underfull \hbox (badness 10000) in paragraph at lines 412--415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--412
+Underfull \hbox (badness 10000) in paragraph at lines 417--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--417
+Underfull \hbox (badness 10000) in paragraph at lines 422--425
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 424.
-[19
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 432.
+[21
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 424.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 432.
  (lab_3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 424.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 424.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 432.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 432.
 Package rerunfilecheck Info: File `lab_3.out' has not changed.
 (rerunfilecheck)             Checksum: 4D578229D71F677237FC5DCA69962CB2;3992.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 424.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 432.
  ) 
 Here is how much of TeX's memory you used:
- 16298 strings out of 480790
- 239115 string characters out of 2896832
+ 16300 strings out of 480790
+ 239225 string characters out of 2896832
  796567 words of memory out of 3000000
  31857 multiletter control sequences out of 15000+200000
  557190 words of font info for 86 fonts, out of 3000000 for 9000
@@ -1312,9 +1319,9 @@ Users\Owadan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
 /cm/cmmi10.pfb><C:/Users/Owadan/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmmi12.pfb><C:/Users/Owadan/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb>
-Output written on lab_3.pdf (20 pages, 465515 bytes).
+Output written on lab_3.pdf (21 pages, 462972 bytes).
 PDF statistics:
- 831 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 500000)
+ 836 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
  221 words of extra memory for PDF output out of 10000 (max. 10000000)
 

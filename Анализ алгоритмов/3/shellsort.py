@@ -77,9 +77,11 @@ def test(f:callable, a, n = 10):
     print(f'\ntime = {tm:.10f}\n')
 
     return tm
+
+##result = 0
 ##for i in range(10):
-##    result += test(shellSort, [random.randint(-200, 200) for i in range(1000)])
-##print("RESULT = \n", result*1000000)
+result = test(cocktailSort,[random.randint(-200, 200) for i in range(10)])
+print("RESULT = \n", result)
 
 
 ##print([sorted(random.randint(-200, 200) for i in range(300))])
@@ -95,12 +97,12 @@ def test(f:callable, a, n = 10):
 ##print("Сортировка Шелла: ",     a)
 ##print("Шейкер сортировка: ",    a)
 
-time_bubble_sort = [77603, 433224, 1199938, 2562328, 5016702]
-elem = [100, 300, 500, 700, 1000]
+time_bubble_sort = [1084, 77603, 433224, 1199938, 2562328, 5016702]
+elem = [10, 100, 300, 500, 700, 1000]
 
-time_reverse_sort = [56473, 477015,  1386094, 2862636, 5539335]
+time_reverse_sort = [2215,56473, 477015,  1386094, 2862636, 5539335]
 
-time_random_bubble = [71631, 500447, 1310741, 2577064, 5378399]
+time_random_bubble = [2145, 71631, 500447, 1310741, 2577064, 5378399]
 def bubble():
     xmax = max(elem)
     xmin = min(elem)
@@ -121,12 +123,12 @@ def bubble():
     plt.grid()
     plt.show()
 
-time_shaker_sort = [2137, 2854, 7722, 7089, 12066]
-time_random_shaker = [ 7308, 86722, 262657,  460562, 942419]
-time_reverse_shaker = [11633, 107924, 362706, 635177, 1343340]
+time_shaker_sort = [242, 2137, 2854, 7722, 7089, 12066]
+time_random_shaker = [300,7308, 86722, 262657,  460562, 942419]
+time_reverse_shaker = [480, 11633, 107924, 362706, 635177, 1343340]
 def cocktail():
-    xmax = max(elem) + 100
-    xmin = min(elem) - 100
+    xmax = max(elem)
+    xmin = min(elem)
     ymin = min(time_reverse_shaker)
     ymax = max(time_reverse_shaker)
     plt.title("Шейкер - сортировка")
@@ -144,13 +146,13 @@ def cocktail():
     plt.grid()
     plt.show()
 
-time_shell_sort = [8437,34295,57884,95701,149729]
-time_reverse_shell = [7352, 35593, 69416,114963,137485]
-time_random_shell = [8068, 40303, 121758, 128520, 142852]
+time_shell_sort = [842,8437,34295,57884,95701,149729]
+time_reverse_shell = [907,7352, 35593, 69416,114963,137485]
+time_random_shell = [906,8068, 40303, 121758, 128520, 142852]
 
 def shell():
-    xmax = max(elem)+100
-    xmin = min(elem)-100
+    xmax = max(elem)
+    xmin = min(elem)
     ymin = min(time_reverse_shell)
     ymax = max(time_reverse_shell)
     plt.title("Сортировка Шелл")
