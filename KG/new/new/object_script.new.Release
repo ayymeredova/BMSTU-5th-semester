@@ -1,0 +1,11 @@
+release/draw.o
+release/errors.o
+release/fractal.o
+release/init_scene.o
+release/input_output.o
+release/main.o
+release/mainwindow.o
+release/model.o
+release/operations.o
+release/task_manager.o
+release/moc_mainwindow.o

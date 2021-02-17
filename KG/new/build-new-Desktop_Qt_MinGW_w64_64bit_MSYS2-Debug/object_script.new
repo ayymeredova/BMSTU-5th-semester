@@ -1,0 +1,10 @@
+draw.o
+errors.o
+init_scene.o
+input_output.o
+main.o
+mainwindow.o
+model.o
+operations.o
+task_manager.o
+moc_mainwindow.o

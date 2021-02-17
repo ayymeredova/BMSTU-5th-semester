@@ -1,0 +1,11 @@
+debug/draw.o
+debug/errors.o
+debug/fractal.o
+debug/init_scene.o
+debug/input_output.o
+debug/main.o
+debug/mainwindow.o
+debug/model.o
+debug/operations.o
+debug/task_manager.o
+debug/moc_mainwindow.o
