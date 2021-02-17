@@ -1,6 +1,8 @@
 debug/draw.o
 debug/errors.o
 debug/fractal.o
+debug/head.o
+debug/human.o
 debug/init_scene.o
 debug/input_output.o
 debug/main.o

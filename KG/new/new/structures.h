@@ -2,10 +2,15 @@
 #define STRUCTURES_H
 
 #include "QGraphicsView"
-//model
-typedef struct{
 
-}
+
+//model of human(пока не знаю)
+//typedef struct{
+//   head,
+//   legs,
+//   hands,
+//   body
+//}human;
 
 
 

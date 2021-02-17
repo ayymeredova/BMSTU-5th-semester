@@ -20,6 +20,7 @@ SOURCES += \
     errors.cpp \
     fractal.cpp \
     head.c \
+    human.c \
     init_scene.cpp \
     input_output.cpp \
     main.cpp \
@@ -33,6 +34,7 @@ HEADERS += \
     draw.h \
     errors.h \
     fractal.h \
+    human.h \
     init_scene.h \
     input_output.h \
     mainwindow.h \

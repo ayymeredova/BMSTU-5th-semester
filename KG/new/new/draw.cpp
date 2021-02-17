@@ -23,7 +23,7 @@ point get_point(point *arr, int index)
     return current;
 }
 
-void draw_object(frame_model& object, graphics_scene frame, point x, int len, double angle)
+void draw_object(frame_model& object, graphics_scene frame)
 {
     int start = 0, end = 0;
     data_points points = object.points;
