@@ -1,3 +1,4 @@
+debug/body.o
 debug/draw.o
 debug/errors.o
 debug/fractal.o

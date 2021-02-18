@@ -19,8 +19,6 @@ SOURCES += \
     draw.cpp \
     errors.cpp \
     fractal.cpp \
-    head.c \
-    human.c \
     init_scene.cpp \
     input_output.cpp \
     main.cpp \
@@ -30,11 +28,11 @@ SOURCES += \
     task_manager.cpp
 
 HEADERS += \
+    body.h \
     camera.h \
     draw.h \
     errors.h \
     fractal.h \
-    human.h \
     init_scene.h \
     input_output.h \
     mainwindow.h \

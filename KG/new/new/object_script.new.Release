@@ -1,3 +1,4 @@
+release/body.o
 release/draw.o
 release/errors.o
 release/fractal.o
