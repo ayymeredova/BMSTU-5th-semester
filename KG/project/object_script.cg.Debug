@@ -1,0 +1,14 @@
+debug/branch.o
+debug/event_handler.o
+debug/leaf.o
+debug/line3d.o
+debug/main.o
+debug/model3d.o
+debug/model_handler.o
+debug/panel.o
+debug/tree.o
+debug/vector.o
+debug/view3d.o
+debug/widget.o
+debug/moc_event_handler.o
+debug/moc_panel.o
